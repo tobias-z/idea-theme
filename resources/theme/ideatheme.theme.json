@@ -1,0 +1,31 @@
+{
+  "name": "TobiasIdeaTheme",
+  "author": "tobias-z",
+  "dark": true,
+  "colors": {
+    "primaryBackground": "#131415",
+    "primaryRed": "#cc6666",
+    "primaryWhite": "#E0E0E0",
+    "primaryPink": "#fef601",
+    "primaryGreen": "#99cc99",
+    "primaryYellow": "#f8fe7a",
+    "primaryBlue": "#81a2be",
+    "primaryAqua": "#8ec07c",
+    "primaryCyan": "#8abeb7",
+    "primaryPurple": "#8e6fbd",
+    "primaryViolet": "#b294bb",
+    "primaryOrange": "#de935f",
+    "primaryBrown": "#a3685a",
+    "primarySeagreen": "#698b69",
+    "primaryTurquoise": "#698b69",
+    "primaryString": "#989A24",
+    "primaryDarkgreen": "#779E69",
+    "saved": "#22262B"
+  },
+  "ui": {
+    "*": {
+      "background": "primaryBackground"
+    },
+    "CompletionPopup.matchForeground": "primaryYellow"
+  }
+}
