@@ -2,7 +2,7 @@
 <idea-plugin>
 	<!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
 	<id>idea-theme</id>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 	<!-- Public plugin name should be written in Title Case.
 		 Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -10,16 +10,16 @@
 	<category>UI</category>
 
 	<!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-	<vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+	<vendor email="tobias.zimmer007@gmail.com" url="https://www.tobias-z.dk">Tobias Zimmermann</vendor>
 
-	<idea-version since-build="221" until-build="231.*"/>
+	<idea-version since-build="221" />
 
 	<!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
 		 Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
 		 Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+
 	<description><![CDATA[
-    Enter short description for your theme here.<br>
-    <em>most HTML tags may be used</em>
+	Awesome theme
   ]]></description>
 
 	<!-- Short summary of new features and bugfixes in the latest plugin version.
