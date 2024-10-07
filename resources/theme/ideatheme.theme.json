@@ -26,6 +26,6 @@
     "*": {
       "background": "primaryBackground"
     },
-    "CompletionPopup.matchForeground": "primaryYellow"
+    "CompletionPopup.matchForeground": "primaryYellow",
   }
 }
